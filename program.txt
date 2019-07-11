@@ -2,3 +2,7 @@ Main()
 {
     print "Hello word";
 }
+metho()
+{
+   print "my name is xiaoniu"
+}
